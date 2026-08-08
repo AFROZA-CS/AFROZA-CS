@@ -1,284 +1,230 @@
 ```markdown
-<h1 align="center">Hi 👋, I'm Afroza Rahman</h1>
+# Hi there 👋, I'm Afroza Rahman
 
-<h3 align="center">
-Ph.D. Researcher | Artificial Intelligence | Machine Learning | Computer Vision
-</h3>
+### Ph.D. Researcher | Artificial Intelligence | Machine Learning | Computer Vision
 
-<p align="center">
-  <em>
-    Exploring intelligent, explainable, and trustworthy AI systems for real-world applications.
-  </em>
-</p>
+I am a **Ph.D. researcher in Computer Science** with research interests spanning **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**.
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="YOUR_GOOGLE_SCHOLAR_URL">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=googlescholar" />
-  </a>
-  <a href="YOUR_ORCID_URL">
-    <img src="https://img.shields.io/badge/ORCID-Profile-green?style=for-the-badge&logo=orcid" />
-  </a>
-</p>
+My research focuses on developing intelligent, explainable, and trustworthy AI approaches for real-world applications, particularly in **healthcare, biomedical imaging, and computer vision**.
 
----
-
-## 👩‍💻 About Me
-
-I am a **Ph.D. researcher** working in the areas of **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**.
-
-My research focuses on developing intelligent and trustworthy computational methods, with particular interests in **Explainable Artificial Intelligence (XAI), Foundation Models, Medical Image Analysis, Multimodal Learning, and Computer Vision**.
-
-Before beginning my Ph.D., I was involved in academic and research activities through **AHAD Vision Lab** and worked as a **Research Assistant at the University of Asia Pacific**.
-
-I am particularly interested in applying advanced AI methods to challenging real-world problems and developing models that are not only accurate but also **interpretable, reliable, and generalisable**.
+Before starting my Ph.D., I worked with **AHAD Vision Lab** and served as a **Research Assistant at the University of Asia Pacific**, contributing to research in artificial intelligence, computer vision, and deep learning.
 
 ---
 
 ## 🔬 Research Interests
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- 🔍 Explainable Artificial Intelligence (XAI)
-- 🏥 AI for Healthcare
-- 🩻 Medical Image Analysis
-- 🧬 Biomedical Image Analysis
-- 🧫 Microscopy Image Analysis
-- 🧩 Foundation Models
-- 🔄 Multimodal Learning
-- 🛡️ Trustworthy AI
-- 📊 Representation Learning
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Explainable Artificial Intelligence (XAI)
+- Foundation Models
+- Medical Image Analysis
+- Biomedical Image Analysis
+- Multimodal Learning
+- Representation Learning
+- Trustworthy AI
+- AI for Healthcare
 
 ---
 
-## 🛠️ Languages and Tools
+## 💻 Tech Stack
 
-### Programming Languages
+### Programming
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-Research-orange?style=for-the-badge)
 
 ### Machine Learning & Deep Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### Computer Vision & Data Science
+### Computer Vision
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,numpy,pandas" />
-</p>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-blue?style=for-the-badge)
+![Vision Transformers](https://img.shields.io/badge/Vision-Transformers-purple?style=for-the-badge)
 
-### Development & Research Tools
+### Data Science
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-blue?style=for-the-badge)
 
----
+### Tools
 
-## 🚀 Research & Project Areas
-
-### 🏥 Artificial Intelligence for Healthcare
-
-Developing machine learning and deep learning approaches for healthcare and biomedical applications.
-
-**Areas of interest:**
-- Medical image analysis
-- Disease detection and classification
-- Clinical decision-support systems
-- Explainable healthcare AI
-- Trustworthy medical AI
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+
+## 🚀 Research Areas
+
+### 🏥 AI for Healthcare
+
+My research explores the application of artificial intelligence and deep learning to healthcare and biomedical problems.
+
+- Medical Image Analysis
+- Disease Detection & Classification
+- Clinical Decision Support
+- Explainable Medical AI
+- Trustworthy Healthcare AI
 
 ### 🔬 Computer Vision & Biomedical Imaging
 
-Exploring computer vision techniques for extracting meaningful information from complex biomedical and microscopy images.
+I am interested in developing advanced computer vision methods for extracting meaningful representations from biomedical and visual data.
 
-**Research directions:**
-- Image classification
-- Image segmentation
-- Object detection
-- Feature representation
+- Image Classification
+- Image Segmentation
+- Object Detection
 - Vision Transformers
-- Foundation models for vision
+- Transfer Learning
+- Representation Learning
 
----
+### 🧫 AI for Microscopy
 
-### 🧫 AI for Microscopy & Cellular Analysis
+I explore AI-based methods for understanding biological and cellular patterns from microscopy data.
 
-Applying artificial intelligence to microscopy data for understanding cellular and biological patterns.
-
-**Research interests include:**
-- Single-cell image analysis
-- Bacterial microscopy
-- Cell segmentation
-- Phenotypic classification
-- Antimicrobial resistance research
-- Representation learning from microscopy images
-
----
+- Single-Cell Image Analysis
+- Bacterial Microscopy
+- Cell Segmentation
+- Phenotypic Classification
+- Antimicrobial Resistance
+- Deep Representation Learning
 
 ### 🔍 Explainable & Trustworthy AI
 
-Investigating methods that improve the transparency, interpretability, and reliability of deep learning systems.
+I am interested in understanding how and why deep learning models make their predictions.
 
-**Topics include:**
-- Explainable AI
-- Model interpretation
-- Feature attribution
-- Visual explanations
-- Model reliability
-- Generalisation
-- Domain adaptation
+- Explainable AI (XAI)
+- Model Interpretability
+- Feature Attribution
+- Visual Explanations
+- Model Generalisation
+- Domain Adaptation
 
----
+### 🧩 Foundation Models
 
-### 🧩 Foundation Models & Multimodal AI
+I am exploring emerging foundation-model architectures for computer vision and biomedical AI.
 
-Exploring emerging foundation-model architectures and multimodal learning approaches.
-
-**Topics of interest:**
 - Vision Transformers
-- Vision-language models
-- Self-supervised learning
-- Transfer learning
-- Multimodal representation learning
-- Foundation models for biomedical applications
+- Vision Foundation Models
+- Vision-Language Models
+- Self-Supervised Learning
+- Transfer Learning
+- Multimodal Learning
 
 ---
 
 ## 🎓 Education
 
-### Ph.D. in [YOUR PHD SUBJECT]
+### Ph.D. in Computer Science
 **University of Exeter, United Kingdom**  
-`YEAR – Present`
+202X – Present
 
-Research focus: **[YOUR EXACT PHD RESEARCH AREA]**
+**Research:** YOUR RESEARCH TOPIC HERE
 
----
+### Master's Degree
+**YOUR UNIVERSITY**  
+YEAR – YEAR
 
-### [YOUR PREVIOUS DEGREE]
-
-**[UNIVERSITY NAME]**  
-`YEAR – YEAR`
-
-[Add a short description if required.]
+### Bachelor's Degree
+**YOUR UNIVERSITY**  
+YEAR – YEAR
 
 ---
 
 ## 💼 Research Experience
 
-### 🔬 Ph.D. Researcher
-**University of Exeter**  
-`YEAR – Present`
+### Ph.D. Researcher
+**University of Exeter**
 
-- Conducting research in artificial intelligence and computer vision.
+- Conducting research in Artificial Intelligence and Computer Vision.
 - Developing machine learning and deep learning methodologies.
-- Investigating explainable and trustworthy AI approaches.
-- Working with biomedical and/or visual datasets.
+- Investigating explainable and trustworthy AI.
+- Working with biomedical and visual datasets.
 
----
+### Researcher
+**AHAD Vision Lab**
 
-### 🔬 Researcher — AHAD Vision Lab
+- Conducted research in Artificial Intelligence and Computer Vision.
+- Developed deep learning approaches for research applications.
+- Contributed to research projects and publications.
 
-`YEAR – YEAR`
-
-- Conducted research in computer vision and artificial intelligence.
-- Contributed to research projects and scientific publications.
-- Worked on machine learning and deep learning applications.
-
----
-
-### 🔬 Research Assistant
+### Research Assistant
 **University of Asia Pacific**
 
-`YEAR – YEAR`
-
-- Supported research activities in artificial intelligence and computer vision.
-- Contributed to research experiments, implementation, and analysis.
-- Collaborated on academic research and publications.
+- Conducted research in Machine Learning and Computer Vision.
+- Supported research experiments and implementation.
+- Contributed to academic publications.
 
 ---
 
-## 📚 Selected Publications
-
-<!-- Replace these with your actual publications -->
+## 📚 Publications
 
 ### 2026
 
-**[Your Paper Title]**  
-*Author 1, Afroza Rahman, Author 3*  
-**[Journal / Conference Name]**, 2026.  
-[Paper](YOUR_PAPER_LINK) | [Code](YOUR_CODE_LINK)
+**YOUR PAPER TITLE**
+
+Afroza Rahman, Author 2, Author 3  
+*Journal / Conference Name, 2026*
+
+[📄 Paper](YOUR-LINK) | [💻 Code](YOUR-LINK)
 
 ### 2025
 
-**[Your Paper Title]**  
-*Afroza Rahman, Author 2, Author 3*  
-**[Journal / Conference Name]**, 2025.  
-[Paper](YOUR_PAPER_LINK)
+**YOUR PAPER TITLE**
+
+Afroza Rahman, Author 2, Author 3  
+*Journal / Conference Name, 2025*
+
+[📄 Paper](YOUR-LINK)
 
 ### 2024
 
-**[Your Paper Title]**  
-*Afroza Rahman et al.*  
-**[Journal / Conference Name]**, 2024.  
-[Paper](YOUR_PAPER_LINK)
+**YOUR PAPER TITLE**
+
+Afroza Rahman et al.  
+*Journal / Conference Name, 2024*
+
+[📄 Paper](YOUR-LINK)
 
 ---
 
-## 🏆 Achievements & Awards
+## 🏆 Achievements
 
-- 🏆 **[Award / Achievement Name]** — [Organisation], [Year]
-- 🥇 **[Award / Achievement Name]** — [Organisation], [Year]
-- 🎓 **[Scholarship / Funding / Recognition]** — [Year]
-- 📚 **[Research/Academic Achievement]** — [Year]
+- 🏆 **YOUR AWARD** — Organisation, Year
+- 🥇 **YOUR AWARD** — Organisation, Year
+- 🎓 **YOUR SCHOLARSHIP / FUNDING** — Year
+- 📚 **YOUR ACADEMIC ACHIEVEMENT** — Year
 
 ---
 
 ## 🤝 Professional Memberships
 
-- **[Professional Organisation]** — [Membership Type]
-- **[Professional Organisation]** — [Membership Type]
-- **[Professional Organisation]** — [Membership Type]
+- **YOUR MEMBERSHIP**
+- **YOUR MEMBERSHIP**
+- **YOUR MEMBERSHIP**
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AFROZA-CS&show_icons=true"
-    alt="Afroza's GitHub Stats"
-    height="170"
-  />
-</p>
+![Afroza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AFROZA-CS&show_icons=true)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFROZA-CS&layout=compact"
-    alt="Top Languages"
-    height="170"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AFROZA-CS&layout=compact)
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AFROZA-CS"
-    alt="Afroza Rahman's GitHub Activity Graph"
-  />
-</p>
+![Afroza's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AFROZA-CS)
 
 ---
 
@@ -290,49 +236,28 @@ Research focus: **[YOUR EXACT PHD RESEARCH AREA]**
 - Multimodal Learning
 - Biomedical AI
 - Trustworthy AI
-- Advanced Medical Image Analysis
 
 ---
 
 ## 🤝 Open to Collaboration
 
-I am interested in research collaborations involving:
+I am interested in collaborating on research related to:
 
-**Artificial Intelligence • Computer Vision • Explainable AI • Medical AI • Biomedical Imaging • Foundation Models • Multimodal Learning • Trustworthy AI**
+**Artificial Intelligence | Computer Vision | Explainable AI | Medical AI | Biomedical Imaging | Foundation Models | Multimodal Learning**
 
-If you are working on related research and would like to collaborate, feel free to connect with me.
+Feel free to reach out if you are interested in research collaboration.
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afroza%20Rahman-blue?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-LINK)
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Afroza%20Rahman-blue?style=flat-square&logo=linkedin" />
-</a>
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=googlescholar)](YOUR-GOOGLE-SCHOLAR-LINK)
 
-<a href="YOUR_GOOGLE_SCHOLAR_URL">
-<img src="https://img.shields.io/badge/Google%20Scholar-Afroza%20Rahman-blue?style=flat-square&logo=googlescholar" />
-</a>
-
-<a href="YOUR_ORCID_URL">
-<img src="https://img.shields.io/badge/ORCID-Afroza%20Rahman-green?style=flat-square&logo=orcid" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
-</a>
-
-</p>
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-green?style=for-the-badge&logo=orcid)](YOUR-ORCID-LINK)
 
 ---
 
-<p align="center">
-  <i>Researching intelligent systems that are accurate, explainable, trustworthy, and useful in the real world.</i>
-</p>
-
-<p align="center">
-  ⭐ If you find my research repositories useful, feel free to explore and star them.
-</p>
+⭐ **Thanks for visiting my GitHub profile!**
 ```
