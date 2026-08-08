@@ -6,7 +6,7 @@
 
 *Exploring intelligent, explainable, and trustworthy AI for real-world scientific applications*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Researcher+in+Computer+Science;Artificial+Intelligence+Researcher;Computer+Vision+Researcher;Explainable+AI;Deep+Learning;Medical+Image+Analysis\&center=true\&vCenter=true\&color=0891b2\&size=20)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Researcher+in+Computer+Science;Artificial+Intelligence+Researcher;Computer+Vision+Researcher;Explainable+AI;Deep+Learning;Medical+Image+Analysis\&center=true\&vCenter=true\&color=0891b2\&size=20)
 
 ---
 
