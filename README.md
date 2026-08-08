@@ -1,18 +1,161 @@
-# 💫 About Me:
-I am a ***Ph.D. researcher in Artificial Intelligence*** at the ***University of East London***, where my research focuses on developing intelligent, trustworthy, and explainable AI systems for real-world applications.<br><br>My research lies at the intersection of `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, and `Computer Vision`. I am particularly interested in `Explainable AI (XAI)`, `Foundation Models`, `Medical Image Analysis`, `Multimodal Learning`, and `Trustworthy AI`, with the goal of building AI systems that are accurate, interpretable, and impactful.<br><br>Prior to starting my Ph.D., I worked as a ***Research Assistant*** in the ***AHAD Vision Lab*** at the ***University of East London***, contributing to several research and innovation projects in artificial intelligence and computer vision. Before that, I served as a ***Research Assistant*** at the ***University of Asia Pacific (UAP), Bangladesh***, where I was involved in AI-focused research and collaborated on academic projects.<br><br>I earned my ***Bachelor of Science in Computer Science and Engineering*** from the ***University of Asia Pacific (UAP), Bangladesh***, graduating with distinction.<br><br>**What I bring to the table:**<br><br>* 🧠 Strong foundation in `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, and `Computer Vision`<br>* 🔬 Research experience in `Explainable AI (XAI)`, `Foundation Models`, `Medical AI`, and `Trustworthy AI`<br>* 💻 Experience designing, developing, and evaluating deep learning models for real-world applications<br>* 🤝 Experience working on collaborative research projects across academia and industry<br>* 🌍 Passion for interdisciplinary research, open-source development, and AI for social good<br>* 📚 Long-term goal of pursuing an academic career through impactful research, teaching, and mentorship<br><br>*Driven by curiosity, committed to innovation, and passionate about building trustworthy AI that creates meaningful real-world impact.*<br>
+<div align="center">
 
+# Hi, I'm ***Afroza Rahman*** 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afrozar0) 
+### ***Ph.D. Researcher*** | ***Artificial Intelligence Researcher*** | ***Computer Vision Researcher***
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AFROZA-CS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AFROZA-CS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AFROZA-CS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Exploring intelligent, explainable, and trustworthy AI for real-world scientific applications*
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ph.D.+Researcher+in+Computer+Science;Artificial+Intelligence+Researcher;Computer+Vision+Researcher;Explainable+AI;Deep+Learning;Medical+Image+Analysis\&center=true\&vCenter=true\&color=0891b2\&size=20)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AFROZA-CS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](YOUR_LINKEDIN_URL)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge)](YOUR_GOOGLE_SCHOLAR_URL)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge)](YOUR_ORCID_URL)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge)](YOUR_RESEARCHGATE_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+<div align="left">
+
+I am a ***Ph.D. researcher in Computer Science*** with a research focus on ***Artificial Intelligence and Computer Vision***. My work explores the development of intelligent computational methods for analysing complex visual and scientific data, with an emphasis on building reliable, interpretable, and data-driven AI systems.
+
+My research sits at the intersection of <code>Artificial Intelligence</code>, <code>Machine Learning</code>, <code>Deep Learning</code>, and <code>Computer Vision</code>. I am particularly interested in <code>Explainable AI (XAI)</code>, <code>Medical Image Analysis</code>, <code>Foundation Models</code>, <code>Representation Learning</code>, and <code>Multimodal Learning</code>.
+
+Prior to starting my Ph.D., I worked with the ***AHAD Vision Lab***, where I gained research experience in artificial intelligence, deep learning, and computer vision. I also served as a ***Research Assistant at the University of Asia Pacific (UAP)***, contributing to research projects and strengthening my experience in applied AI and academic research.
+
+My academic and research journey has provided me with experience in developing deep learning models, designing computational experiments, analysing complex datasets, evaluating AI systems, and communicating research through academic publications and conferences.
+
+**What I bring to the table:**
+
+* 🧠 Strong foundation in <code>Artificial Intelligence</code>, <code>Machine Learning</code>, and <code>Deep Learning</code>
+* 👁️ Research experience in <code>Computer Vision</code> and <code>Image Analysis</code>
+* 🔬 Experience with <code>Explainable AI</code>, <code>Medical AI</code>, and data-driven research
+* 💻 Experience developing and evaluating reproducible deep learning pipelines
+* 📊 Experience analysing complex visual and scientific datasets
+* 🤝 Academic collaboration and interdisciplinary research experience
+* 📚 Passion for research, continuous learning, and advancing intelligent technologies
+
+*Exploring visual intelligence, advancing AI research, and transforming complex data into meaningful knowledge.*
+
+</div>
+
+---
+
+## 🔬 Research Interests
+
+<div align="center">
+
+<code>Artificial Intelligence</code> · <code>Computer Vision</code> · <code>Deep Learning</code> · <code>Machine Learning</code> · <code>Explainable AI</code> · <code>Medical Image Analysis</code> · <code>Foundation Models</code> · <code>Representation Learning</code> · <code>Multimodal Learning</code>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+
+<code>Python</code> · <code>C</code> · <code>C++</code> · <code>SQL</code>
+
+### Machine Learning & Deep Learning
+
+<code>PyTorch</code> · <code>TensorFlow</code> · <code>scikit-learn</code> · <code>Keras</code> · <code>Transformers</code>
+
+### Computer Vision
+
+<code>OpenCV</code> · <code>CNNs</code> · <code>Vision Transformers</code> · <code>Image Classification</code> · <code>Image Segmentation</code>
+
+### Data Science & Visualization
+
+<code>NumPy</code> · <code>pandas</code> · <code>Matplotlib</code>
+
+### Research & Development Tools
+
+<code>Git</code> · <code>GitHub</code> · <code>Jupyter Notebook</code> · <code>Google Colab</code> · <code>LaTeX</code>
+
+---
+
+## 📚 Research & Project Areas
+
+<div align="left">
+
+* ***Artificial Intelligence:*** exploring intelligent computational approaches for solving complex real-world and scientific problems.
+
+* ***Computer Vision:*** developing deep learning approaches for extracting meaningful information and representations from visual data.
+
+* ***Explainable AI:*** investigating methods that make AI predictions and decision-making processes more transparent and interpretable.
+
+* ***Medical Image Analysis:*** applying computer vision and deep learning techniques to analyse complex biomedical and healthcare-related visual data.
+
+* ***Foundation Models:*** exploring the capabilities of pretrained and foundation models for visual and multimodal learning tasks.
+
+* ***Representation Learning:*** investigating approaches for learning meaningful and generalisable representations from complex datasets.
+
+* ***Multimodal Learning:*** exploring methods that integrate information from multiple data modalities to develop more comprehensive AI systems.
+
+* ***Applied Machine Learning:*** designing and evaluating machine learning and deep learning approaches for scientific and real-world applications.
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+### 📈 Contribution Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=react-dark\&hide_border=true\&area=true\&color=0891b2\&line=0891b2\&point=ffffff)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](YOUR_LINKEDIN_URL)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge)](YOUR_GOOGLE_SCHOLAR_URL)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge)](YOUR_ORCID_URL)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge)](YOUR_RESEARCHGATE_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+## 💼 Academic & Research Opportunities
+
+<div align="center">
+
+*💡 Open to academic and interdisciplinary collaboration in <code>Artificial Intelligence</code>, <code>Computer Vision</code>, <code>Explainable AI</code>, <code>Medical Image Analysis</code>, <code>Foundation Models</code>, and <code>Multimodal Learning</code>.*
+
+*Feel free to connect with me for research discussions, academic collaboration, and interdisciplinary research opportunities.*
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=0891b2\&style=for-the-badge\&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+***“Exploring intelligence, advancing research, creating impact.”***
+
+</div>
